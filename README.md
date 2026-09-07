@@ -1,7 +1,7 @@
 # Ex.No.7 – Development of a Prompt-Based Application for Personal Needs Using Large Language Models
 
 ## Date: 07/09/2026
-## Name : Maadeash K
+## Name : Vasanth M
 ## Register No.: 212223060295
 
 # Aim:
